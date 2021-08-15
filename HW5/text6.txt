@@ -1,0 +1,7 @@
+PE: - 30(pr) -
+Math: 10(lec) 50(pr) -
+History: 50(lec) - -
+Spanish: 70(lec) 20(pr) 18(lab)
+Informatics: 40(lec) 12(pr) 20(lab)
+Science: 10(lec) - 8(lab)
+English: - - 90(lab)

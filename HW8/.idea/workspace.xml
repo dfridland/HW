@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7183ea3f-b09f-460d-808a-8d7de90e5b63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HW8_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8_456.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson8OOP/HW8_456_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson8OOP/HW8_456_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson8OOP/HW8_456_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson8OOP/USA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW4/HW4_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HW4/HW4_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW4/HW4_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HW4/HW4_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW4/HW4_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HW4/HW4_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW4/HW4_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HW4/HW4_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW5/HW5_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HW5/HW5_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW5/first_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HW5/first_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW5/text5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HW5/text5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW5/text7js.json" beforeDir="false" afterPath="$PROJECT_DIR$/../HW5/text7js.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW6/HW6_1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HW6/HW6_1_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW6/HW6_1_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HW6/HW6_1_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW6/HW6_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HW6/HW6_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW6/HW6_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HW6/HW6_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson3Functions/HW3_1_extra.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson3Functions/HW3_1_extra.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson3Functions/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson3Functions/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson3Functions/generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson3Functions/generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson3Functions/module_copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson3Functions/module_copy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson3Functions/operator_and_or.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson3Functions/operator_and_or.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson3Functions/ternarn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson3Functions/ternarn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson5Files/my_file" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson5Files/my_file" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson6OOP/Students.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson6OOP/Students.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson6OOP/iteratorMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson6OOP/iteratorMain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson6OOP/property.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson6OOP/property.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson7/HW7_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson7/HW7_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson7/HW7_1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson7/HW7_1_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson7/HW7_1_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson7/HW7_1_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson7/HW7_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson7/HW7_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson7/HW7_2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson7/HW7_2_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson7/HW7_2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson7/HW7_2_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson7/HW7_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson7/HW7_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson7/LESSON7_MAIN.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson7/LESSON7_MAIN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson7/LEsson7_Main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson7/LEsson7_Main2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson7/composition.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson7/composition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson7/decator_property2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson7/decator_property2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson7/decotor_property.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson7/decotor_property.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson7/deftimer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson7/deftimer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson7/interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson7/interface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson7/iterator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson7/iterator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson7/iterator1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson7/iterator1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson7/lesson7_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson7/lesson7_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson7/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson7/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson7/overriding_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson7/overriding_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson7/parent_child.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson7/parent_child.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson7/property.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson7/property.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8OOP/HW8_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson8OOP/HW8_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8OOP/HW8_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson8OOP/HW8_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8OOP/HW8_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson8OOP/HW8_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8OOP/HW8_456.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson8OOP/HW8_456.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8OOP/HW8_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson8OOP/HW8_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8OOP/OOP_program.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson8OOP/OOP_program.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8OOP/exeptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson8OOP/exeptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8OOP/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson8OOP/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8OOP/static_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson8OOP/static_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LessonPythonTools/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LessonPythonTools/core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LessonPythonTools/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LessonPythonTools/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LessonPythonTools/problems.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LessonPythonTools/problems.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LessonPythonTools/promlems2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LessonPythonTools/promlems2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1wlRB5dntqSLYhSFNJnP4uXd6lw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.HW8_456_2">
+    <configuration name="HW8_456_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Lesson8OOP" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Lesson8OOP/HW8_456_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="HW8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.HW8_456_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7183ea3f-b09f-460d-808a-8d7de90e5b63" name="Default Changelist" comment="" />
+      <created>1629031049513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629031049513</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
